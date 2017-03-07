@@ -1,0 +1,4 @@
+Name: open_emacs
+Description: Open the active file with emacs.
+Binding: addin_open_emacs
+Interactive: false
