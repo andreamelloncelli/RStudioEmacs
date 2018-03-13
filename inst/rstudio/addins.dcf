@@ -2,3 +2,18 @@ Name: open_emacs
 Description: Open the active file with emacs.
 Binding: addin_open_emacs
 Interactive: false
+
+Name: rs_cut
+Description: Cut selection
+Binding: rs_cut
+Interactive: false
+
+Name: rs_copy
+Description: Copy selection
+Binding: rs_copy
+Interactive: false
+
+Name: rs_paste
+Description: Paste selection
+Binding: rs_paste
+Interactive: false
