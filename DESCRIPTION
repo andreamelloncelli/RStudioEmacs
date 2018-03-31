@@ -5,7 +5,7 @@ Version: 0.5.0
 Author: Andrea Melloncelli
 Maintainer: Andrea Melloncelli <yourself@somewhere.net>
 Description: It implements Emacs functionalities for RStudio
-License: GNU
+License: GNU GENERAL PUBLIC LICENSE Version 2
 Encoding: UTF-8
 LazyData: true
 Imports: rstudioapi,
